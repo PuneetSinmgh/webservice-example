@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.0.1" sequence="0" timestamp="1492586003610" analysisTimestamp="1492586667248" release="">
+  <Project>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\JiraserviceApiApplication.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\common\ApplicationMeasureConstant.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\common\ApplicationMeasureUnitConstant.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\common\DataPointConstant.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\common\ExceptionConstantsMap.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\common\JiraURLConstants.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\controller\DataPointController.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\exception\GlobalExceptionHandler.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\exception\JiraException.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\exception\JiraExceptionResponse.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\Actor.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\ActualValue.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\Count.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\CustomField.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\DPRequest.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\DPResponse.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\DataPointRequest.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\DataPointResponse.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\Efforts.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\ExecutionUnit.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\Exists.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\Frequency.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\Issue.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\ProjectRequest.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\ProjectResponse.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\Size.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\StoryPoint.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\User.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\model\Value.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\service\DataPointService.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\service\DataPointServiceMethodImplementation.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\service\DataPointServiceMethodInterface.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\util\ApplicableMeasuresFactory.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\util\DataPointFactory.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\util\JiraRequestInvoker.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\main\java\com\cybage\jiraservice\util\JsonFactory.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\test\java\com\cybage\jiraservice\JiraApiApplicationTests.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\src\test\java\com\cybage\jiraservice\controller\DataPointControllerTest.java</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\JiraserviceApiApplication.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\common\ApplicationMeasureConstant.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\common\ApplicationMeasureUnitConstant.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\common\DataPointConstant.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\common\ExceptionConstantsMap.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\common\JiraURLConstants.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\controller\DataPointController.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\exception\GlobalExceptionHandler.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\exception\JiraException.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\exception\JiraExceptionResponse.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\Actor.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\ActualValue.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\Count.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\CustomField.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\DPRequest.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\DPResponse.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\DataPointRequest.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\DataPointResponse.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\Efforts.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\ExecutionUnit.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\Exists.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\Frequency.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\Issue.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\ProjectRequest.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\ProjectResponse.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\Size.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\StoryPoint.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\User.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\model\Value.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\service\DataPointService.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\service\DataPointServiceMethodImplementation.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\service\DataPointServiceMethodInterface.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\util\ApplicableMeasuresFactory.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\util\DataPointFactory.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\util\JiraRequestInvoker.class</Jar>
+    <Jar>E:\ALM Maturity\apps\jira-api\target\classes\com\cybage\jiraservice\util\JsonFactory.class</Jar>
+    <AuxClasspathEntry>E:\ALM Maturity\apps\jira-api\target\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>E:\ALM Maturity\apps\jira-api\.sonar\findbugs\annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>E:\ALM Maturity\apps\jira-api\.sonar\findbugs\jsr305.jar</AuxClasspathEntry>
+    <WrkDir>E:\ALM Maturity\apps\jira-api\.sonar</WrkDir>
+  </Project>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N" instanceHash="23a94681183f1ad37359bb4ae4f9742b" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Reliance on default encoding</ShortMessage>
+    <LongMessage>Found reliance on default encoding in com.cybage.jiraservice.util.JiraRequestInvoker.getAuthorization(): new String(byte[])</LongMessage>
+    <Class classname="com.cybage.jiraservice.util.JiraRequestInvoker" primary="true">
+      <SourceLine classname="com.cybage.jiraservice.util.JiraRequestInvoker" start="30" end="58" sourcefile="JiraRequestInvoker.java" sourcepath="com/cybage/jiraservice/util/JiraRequestInvoker.java">
+        <Message>At JiraRequestInvoker.java:[lines 30-58]</Message>
+      </SourceLine>
+      <Message>In class com.cybage.jiraservice.util.JiraRequestInvoker</Message>
+    </Class>
+    <Method classname="com.cybage.jiraservice.util.JiraRequestInvoker" name="getAuthorization" signature="()Ljava/lang/String;" isStatic="false" primary="true">
+      <SourceLine classname="com.cybage.jiraservice.util.JiraRequestInvoker" start="55" end="58" startBytecode="0" endBytecode="153" sourcefile="JiraRequestInvoker.java" sourcepath="com/cybage/jiraservice/util/JiraRequestInvoker.java"/>
+      <Message>In method com.cybage.jiraservice.util.JiraRequestInvoker.getAuthorization()</Message>
+    </Method>
+    <Method classname="java.lang.String" name="&lt;init&gt;" signature="([B)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.lang.String" start="554" end="555" startBytecode="0" endBytecode="36" sourcefile="String.java" sourcepath="java/lang/String.java"/>
+      <Message>Called method new String(byte[])</Message>
+    </Method>
+    <SourceLine classname="com.cybage.jiraservice.util.JiraRequestInvoker" primary="true" start="57" end="57" startBytecode="49" endBytecode="49" sourcefile="JiraRequestInvoker.java" sourcepath="com/cybage/jiraservice/util/JiraRequestInvoker.java">
+      <Message>At JiraRequestInvoker.java:[line 57]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugInstance type="MDM_STRING_BYTES_ENCODING" priority="2" rank="7" abbrev="MDM" category="CORRECTNESS" instanceHash="fed3aea817daedbad5bcdc640028d3f2" instanceOccurrenceNum="0" instanceOccurrenceMax="0">
+    <ShortMessage>Method encodes String bytes without specifying the character encoding</ShortMessage>
+    <LongMessage>Method com.cybage.jiraservice.util.JiraRequestInvoker.getAuthorization() encodes String bytes without specifying the character encoding</LongMessage>
+    <Class classname="com.cybage.jiraservice.util.JiraRequestInvoker" primary="true">
+      <SourceLine classname="com.cybage.jiraservice.util.JiraRequestInvoker" start="30" end="58" sourcefile="JiraRequestInvoker.java" sourcepath="com/cybage/jiraservice/util/JiraRequestInvoker.java">
+        <Message>At JiraRequestInvoker.java:[lines 30-58]</Message>
+      </SourceLine>
+      <Message>In class com.cybage.jiraservice.util.JiraRequestInvoker</Message>
+    </Class>
+    <Method classname="com.cybage.jiraservice.util.JiraRequestInvoker" name="getAuthorization" signature="()Ljava/lang/String;" isStatic="false" primary="true">
+      <SourceLine classname="com.cybage.jiraservice.util.JiraRequestInvoker" start="55" end="58" startBytecode="0" endBytecode="153" sourcefile="JiraRequestInvoker.java" sourcepath="com/cybage/jiraservice/util/JiraRequestInvoker.java"/>
+      <Message>In method com.cybage.jiraservice.util.JiraRequestInvoker.getAuthorization()</Message>
+    </Method>
+    <Method classname="java.lang.String" name="&lt;init&gt;" signature="([B)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.lang.String" start="554" end="555" startBytecode="0" endBytecode="36" sourcefile="String.java" sourcepath="java/lang/String.java"/>
+      <Message>Called method new String(byte[])</Message>
+    </Method>
+    <SourceLine classname="com.cybage.jiraservice.util.JiraRequestInvoker" primary="true" start="57" end="57" startBytecode="49" endBytecode="49" sourcefile="JiraRequestInvoker.java" sourcepath="com/cybage/jiraservice/util/JiraRequestInvoker.java">
+      <Message>At JiraRequestInvoker.java:[line 57]</Message>
+    </SourceLine>
+  </BugInstance>
+  <BugCategory category="CORRECTNESS">
+    <Description>Correctness</Description>
+  </BugCategory>
+  <BugCategory category="I18N">
+    <Description>Internationalization</Description>
+  </BugCategory>
+  <BugPattern type="DM_DEFAULT_ENCODING" abbrev="Dm" category="I18N">
+    <ShortDescription>Reliance on default encoding</ShortDescription>
+    <Details><![CDATA[
+
+<p> Found a call to a method which will perform a byte to String (or String to byte) conversion, and will assume that the default platform encoding is suitable. This will cause the application behaviour to vary between platforms. Use an alternative API and specify a charset name or Charset object explicitly.  </p>
+
+      ]]></Details>
+  </BugPattern>
+  <BugPattern type="MDM_STRING_BYTES_ENCODING" abbrev="MDM" category="CORRECTNESS">
+    <ShortDescription>Method encodes String bytes without specifying the character encoding</ShortDescription>
+    <Details><![CDATA[
+			
+			<p>The behavior of the <code>String(byte[] bytes)</code> and <code>String.getBytes()</code> is undefined if the string cannot be encoded in the platform's default charset. Instead, use the <code>String(byte[] bytes, String encoding)</code> or <code>String.getBytes(String encoding)</code> constructor which accepts the string's encoding as an argument. Be sure to specify the encoding used for the user's locale.</p>
+
+			<p>As per the Java specifications, "UTF-8", "US-ASCII", "UTF-16" and "ISO-8859-1" will all be valid <a href = "http://docs.oracle.com/javase/7/docs/api/java/nio/charset/Charset.html#standard">encoding charsets</a>.  If you aren't sure, try "UTF-8".</p>
+
+			<p><b>New in Java 1.7</b>, you can specify an encoding from <code>StandardCharsets</code>, like <code>StandardCharsets.UTF_8</code>.  These are generally preferrable because you don't have to deal with <code>UnsupportedEncodingException</code>.</p>
+			
+		]]></Details>
+  </BugPattern>
+  <BugCode abbrev="MDM">
+    <Description>More Dumb Methods</Description>
+  </BugCode>
+  <BugCode abbrev="Dm">
+    <Description>Dubious method used</Description>
+  </BugCode>
+  <Errors errors="0" missingClasses="16">
+    <MissingClass>com.google.gson.Gson</MissingClass>
+    <MissingClass>com.squareup.okhttp.Call</MissingClass>
+    <MissingClass>com.squareup.okhttp.OkHttpClient</MissingClass>
+    <MissingClass>com.squareup.okhttp.Request</MissingClass>
+    <MissingClass>com.squareup.okhttp.Request$Builder</MissingClass>
+    <MissingClass>com.squareup.okhttp.Response</MissingClass>
+    <MissingClass>com.squareup.okhttp.ResponseBody</MissingClass>
+    <MissingClass>org.apache.commons.logging.Log</MissingClass>
+    <MissingClass>org.apache.log4j.Logger</MissingClass>
+    <MissingClass>org.apache.tomcat.util.codec.binary.Base64</MissingClass>
+    <MissingClass>org.springframework.boot.SpringApplication</MissingClass>
+    <MissingClass>org.springframework.context.ApplicationContext</MissingClass>
+    <MissingClass>org.springframework.http.HttpMethod</MissingClass>
+    <MissingClass>org.springframework.http.HttpStatus</MissingClass>
+    <MissingClass>org.springframework.http.ResponseEntity</MissingClass>
+    <MissingClass>org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler</MissingClass>
+  </Errors>
+  <FindBugsSummary timestamp="Wed, 19 Apr 2017 12:43:23 +0530" total_classes="36" referenced_classes="94" total_bugs="2" total_size="964" num_packages="7" java_version="1.8.0_51" vm_version="25.51-b03" cpu_seconds="18.09" clock_seconds="5.57" peak_mbytes="554.87" alloc_mbytes="3623.50" gc_seconds="0.06" priority_2="1" priority_1="1">
+    <FileStats path="com/cybage/jiraservice/JiraserviceApiApplication.java" bugCount="0" size="6"/>
+    <FileStats path="com/cybage/jiraservice/common/ApplicationMeasureConstant.java" bugCount="0" size="30"/>
+    <FileStats path="com/cybage/jiraservice/common/ApplicationMeasureUnitConstant.java" bugCount="0" size="28"/>
+    <FileStats path="com/cybage/jiraservice/common/DataPointConstant.java" bugCount="0" size="24"/>
+    <FileStats path="com/cybage/jiraservice/common/ExceptionConstantsMap.java" bugCount="0" size="24"/>
+    <FileStats path="com/cybage/jiraservice/common/JiraURLConstants.java" bugCount="0" size="26"/>
+    <FileStats path="com/cybage/jiraservice/controller/DataPointController.java" bugCount="0" size="17"/>
+    <FileStats path="com/cybage/jiraservice/exception/GlobalExceptionHandler.java" bugCount="0" size="18"/>
+    <FileStats path="com/cybage/jiraservice/exception/JiraException.java" bugCount="0" size="24"/>
+    <FileStats path="com/cybage/jiraservice/exception/JiraExceptionResponse.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/model/Actor.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/model/ActualValue.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/model/Count.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/model/CustomField.java" bugCount="0" size="57"/>
+    <FileStats path="com/cybage/jiraservice/model/DPRequest.java" bugCount="0" size="17"/>
+    <FileStats path="com/cybage/jiraservice/model/DPResponse.java" bugCount="0" size="17"/>
+    <FileStats path="com/cybage/jiraservice/model/DataPointRequest.java" bugCount="0" size="38"/>
+    <FileStats path="com/cybage/jiraservice/model/DataPointResponse.java" bugCount="0" size="31"/>
+    <FileStats path="com/cybage/jiraservice/model/Efforts.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/model/ExecutionUnit.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/model/Exists.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/model/Frequency.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/model/Issue.java" bugCount="0" size="34"/>
+    <FileStats path="com/cybage/jiraservice/model/ProjectRequest.java" bugCount="0" size="45"/>
+    <FileStats path="com/cybage/jiraservice/model/ProjectResponse.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/model/Size.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/model/StoryPoint.java" bugCount="0" size="34"/>
+    <FileStats path="com/cybage/jiraservice/model/User.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/model/Value.java" bugCount="0" size="74"/>
+    <FileStats path="com/cybage/jiraservice/service/DataPointService.java" bugCount="0" size="24"/>
+    <FileStats path="com/cybage/jiraservice/service/DataPointServiceMethodImplementation.java" bugCount="0" size="41"/>
+    <FileStats path="com/cybage/jiraservice/service/DataPointServiceMethodInterface.java" bugCount="0" size="2"/>
+    <FileStats path="com/cybage/jiraservice/util/ApplicableMeasuresFactory.java" bugCount="0" size="40"/>
+    <FileStats path="com/cybage/jiraservice/util/DataPointFactory.java" bugCount="0" size="23"/>
+    <FileStats path="com/cybage/jiraservice/util/JiraRequestInvoker.java" bugCount="2" size="28" bugHash="4cc34cd243fdecf133cea50c767bfd56"/>
+    <FileStats path="com/cybage/jiraservice/util/JsonFactory.java" bugCount="0" size="9"/>
+    <PackageStats package="com.cybage.jiraservice" total_bugs="0" total_types="1" total_size="6">
+      <ClassStats class="com.cybage.jiraservice.JiraserviceApiApplication" sourceFile="JiraserviceApiApplication.java" interface="false" size="6" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.cybage.jiraservice.common" total_bugs="0" total_types="5" total_size="132">
+      <ClassStats class="com.cybage.jiraservice.common.ApplicationMeasureConstant" sourceFile="ApplicationMeasureConstant.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.common.ApplicationMeasureUnitConstant" sourceFile="ApplicationMeasureUnitConstant.java" interface="false" size="28" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.common.DataPointConstant" sourceFile="DataPointConstant.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.common.ExceptionConstantsMap" sourceFile="ExceptionConstantsMap.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.common.JiraURLConstants" sourceFile="JiraURLConstants.java" interface="false" size="26" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.cybage.jiraservice.controller" total_bugs="0" total_types="1" total_size="17">
+      <ClassStats class="com.cybage.jiraservice.controller.DataPointController" sourceFile="DataPointController.java" interface="false" size="17" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.cybage.jiraservice.exception" total_bugs="0" total_types="3" total_size="65">
+      <ClassStats class="com.cybage.jiraservice.exception.GlobalExceptionHandler" sourceFile="GlobalExceptionHandler.java" interface="false" size="18" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.exception.JiraException" sourceFile="JiraException.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.exception.JiraExceptionResponse" sourceFile="JiraExceptionResponse.java" interface="false" size="23" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.cybage.jiraservice.model" total_bugs="0" total_types="19" total_size="577">
+      <ClassStats class="com.cybage.jiraservice.model.Actor" sourceFile="Actor.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.ActualValue" sourceFile="ActualValue.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.Count" sourceFile="Count.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.CustomField" sourceFile="CustomField.java" interface="false" size="57" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.DPRequest" sourceFile="DPRequest.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.DPResponse" sourceFile="DPResponse.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.DataPointRequest" sourceFile="DataPointRequest.java" interface="false" size="38" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.DataPointResponse" sourceFile="DataPointResponse.java" interface="false" size="31" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.Efforts" sourceFile="Efforts.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.ExecutionUnit" sourceFile="ExecutionUnit.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.Exists" sourceFile="Exists.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.Frequency" sourceFile="Frequency.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.Issue" sourceFile="Issue.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.ProjectRequest" sourceFile="ProjectRequest.java" interface="false" size="45" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.ProjectResponse" sourceFile="ProjectResponse.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.Size" sourceFile="Size.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.StoryPoint" sourceFile="StoryPoint.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.User" sourceFile="User.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.model.Value" sourceFile="Value.java" interface="false" size="74" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.cybage.jiraservice.service" total_bugs="0" total_types="3" total_size="67">
+      <ClassStats class="com.cybage.jiraservice.service.DataPointService" sourceFile="DataPointService.java" interface="false" size="24" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.service.DataPointServiceMethodImplementation" sourceFile="DataPointServiceMethodImplementation.java" interface="false" size="41" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.service.DataPointServiceMethodInterface" sourceFile="DataPointServiceMethodInterface.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.cybage.jiraservice.util" total_bugs="2" total_types="4" total_size="100" priority_2="1" priority_1="1">
+      <ClassStats class="com.cybage.jiraservice.util.ApplicableMeasuresFactory" sourceFile="ApplicableMeasuresFactory.java" interface="false" size="40" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.util.DataPointFactory" sourceFile="DataPointFactory.java" interface="false" size="23" bugs="0"/>
+      <ClassStats class="com.cybage.jiraservice.util.JiraRequestInvoker" sourceFile="JiraRequestInvoker.java" interface="false" size="28" bugs="2" priority_2="1" priority_1="1"/>
+      <ClassStats class="com.cybage.jiraservice.util.JsonFactory" sourceFile="JsonFactory.java" interface="false" size="9" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="415" invocations="655" avgMicrosecondsPerInvocation="634" maxMicrosecondsPerInvocation="50852" standardDeviationMircosecondsPerInvocation="2698"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="366" invocations="678" avgMicrosecondsPerInvocation="539" maxMicrosecondsPerInvocation="17270" standardDeviationMircosecondsPerInvocation="1043"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="270" invocations="94" avgMicrosecondsPerInvocation="2879" maxMicrosecondsPerInvocation="37176" standardDeviationMircosecondsPerInvocation="6680"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="160" invocations="468" avgMicrosecondsPerInvocation="342" maxMicrosecondsPerInvocation="23383" standardDeviationMircosecondsPerInvocation="1259"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="122" invocations="235" avgMicrosecondsPerInvocation="521" maxMicrosecondsPerInvocation="38707" standardDeviationMircosecondsPerInvocation="2636"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="121" invocations="94" avgMicrosecondsPerInvocation="1289" maxMicrosecondsPerInvocation="12348" standardDeviationMircosecondsPerInvocation="2391"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="107" invocations="235" avgMicrosecondsPerInvocation="457" maxMicrosecondsPerInvocation="18841" standardDeviationMircosecondsPerInvocation="1752"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="98" invocations="235" avgMicrosecondsPerInvocation="417" maxMicrosecondsPerInvocation="15285" standardDeviationMircosecondsPerInvocation="1500"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="95" invocations="235" avgMicrosecondsPerInvocation="407" maxMicrosecondsPerInvocation="18337" standardDeviationMircosecondsPerInvocation="1600"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="94" invocations="236" avgMicrosecondsPerInvocation="400" maxMicrosecondsPerInvocation="72718" standardDeviationMircosecondsPerInvocation="4720"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="92" invocations="94" avgMicrosecondsPerInvocation="981" maxMicrosecondsPerInvocation="46664" standardDeviationMircosecondsPerInvocation="4941"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteJCIPAnnotation" totalMilliseconds="85" invocations="94" avgMicrosecondsPerInvocation="913" maxMicrosecondsPerInvocation="77147" standardDeviationMircosecondsPerInvocation="7914"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="80" invocations="235" avgMicrosecondsPerInvocation="343" maxMicrosecondsPerInvocation="16599" standardDeviationMircosecondsPerInvocation="1287"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="75" invocations="235" avgMicrosecondsPerInvocation="321" maxMicrosecondsPerInvocation="14562" standardDeviationMircosecondsPerInvocation="1158"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="75" invocations="254" avgMicrosecondsPerInvocation="296" maxMicrosecondsPerInvocation="19268" standardDeviationMircosecondsPerInvocation="1254"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="74" invocations="236" avgMicrosecondsPerInvocation="315" maxMicrosecondsPerInvocation="20793" standardDeviationMircosecondsPerInvocation="1381"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="71" invocations="94" avgMicrosecondsPerInvocation="764" maxMicrosecondsPerInvocation="30153" standardDeviationMircosecondsPerInvocation="3388"/>
+      <ClassProfile name="com.mebigfatguy.fbcontrib.collect.CollectMethodsReturningImmutableCollections" totalMilliseconds="58" invocations="94" avgMicrosecondsPerInvocation="624" maxMicrosecondsPerInvocation="30754" standardDeviationMircosecondsPerInvocation="3204"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="55" invocations="94" avgMicrosecondsPerInvocation="593" maxMicrosecondsPerInvocation="10504" standardDeviationMircosecondsPerInvocation="1385"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="54" invocations="578" avgMicrosecondsPerInvocation="93" maxMicrosecondsPerInvocation="3127" standardDeviationMircosecondsPerInvocation="256"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="50" invocations="94" avgMicrosecondsPerInvocation="536" maxMicrosecondsPerInvocation="15965" standardDeviationMircosecondsPerInvocation="1767"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="49" invocations="104" avgMicrosecondsPerInvocation="471" maxMicrosecondsPerInvocation="10896" standardDeviationMircosecondsPerInvocation="1285"/>
+      <ClassProfile name="com.mebigfatguy.fbcontrib.detect.CommonsHashcodeBuilderToHashcode" totalMilliseconds="47" invocations="36" avgMicrosecondsPerInvocation="1323" maxMicrosecondsPerInvocation="42469" standardDeviationMircosecondsPerInvocation="6956"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="44" invocations="94" avgMicrosecondsPerInvocation="477" maxMicrosecondsPerInvocation="14035" standardDeviationMircosecondsPerInvocation="1686"/>
+      <ClassProfile name="com.mebigfatguy.fbcontrib.collect.CollectStatistics" totalMilliseconds="39" invocations="94" avgMicrosecondsPerInvocation="422" maxMicrosecondsPerInvocation="6823" standardDeviationMircosecondsPerInvocation="930"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.android.BroadcastDetector" totalMilliseconds="39" invocations="36" avgMicrosecondsPerInvocation="1095" maxMicrosecondsPerInvocation="34693" standardDeviationMircosecondsPerInvocation="5680"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.TypeQualifierNullnessAnnotationDatabase" totalMilliseconds="37" invocations="2847" avgMicrosecondsPerInvocation="13" maxMicrosecondsPerInvocation="14622" standardDeviationMircosecondsPerInvocation="277"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="33" invocations="94" avgMicrosecondsPerInvocation="355" maxMicrosecondsPerInvocation="4125" standardDeviationMircosecondsPerInvocation="654"/>
+      <ClassProfile name="edu.umd.cs.findbugs.DetectorToDetector2Adapter" totalMilliseconds="29" invocations="11334" avgMicrosecondsPerInvocation="2" maxMicrosecondsPerInvocation="531" standardDeviationMircosecondsPerInvocation="6"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref" totalMilliseconds="27" invocations="36" avgMicrosecondsPerInvocation="754" maxMicrosecondsPerInvocation="12099" standardDeviationMircosecondsPerInvocation="1976"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="24" invocations="94" avgMicrosecondsPerInvocation="265" maxMicrosecondsPerInvocation="8622" standardDeviationMircosecondsPerInvocation="1185"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="24" invocations="94" avgMicrosecondsPerInvocation="258" maxMicrosecondsPerInvocation="4400" standardDeviationMircosecondsPerInvocation="622"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.UnreadFields" totalMilliseconds="23" invocations="36" avgMicrosecondsPerInvocation="658" maxMicrosecondsPerInvocation="3423" standardDeviationMircosecondsPerInvocation="549"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CheckRelaxingNullnessAnnotation" totalMilliseconds="23" invocations="36" avgMicrosecondsPerInvocation="641" maxMicrosecondsPerInvocation="9840" standardDeviationMircosecondsPerInvocation="1898"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="22" invocations="36" avgMicrosecondsPerInvocation="638" maxMicrosecondsPerInvocation="5615" standardDeviationMircosecondsPerInvocation="877"/>
+      <ClassProfile name="com.mebigfatguy.fbcontrib.detect.UnnecessaryStoreBeforeReturn" totalMilliseconds="21" invocations="36" avgMicrosecondsPerInvocation="605" maxMicrosecondsPerInvocation="10571" standardDeviationMircosecondsPerInvocation="1891"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindUselessObjects" totalMilliseconds="20" invocations="36" avgMicrosecondsPerInvocation="561" maxMicrosecondsPerInvocation="4751" standardDeviationMircosecondsPerInvocation="886"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.xpath.XPathInjectionDetector" totalMilliseconds="19" invocations="36" avgMicrosecondsPerInvocation="555" maxMicrosecondsPerInvocation="9946" standardDeviationMircosecondsPerInvocation="1602"/>
+      <ClassProfile name="com.mebigfatguy.fbcontrib.detect.DeletingWhileIterating" totalMilliseconds="19" invocations="36" avgMicrosecondsPerInvocation="534" maxMicrosecondsPerInvocation="5666" standardDeviationMircosecondsPerInvocation="956"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDeref$CheckCallSitesAndReturnInstructions" totalMilliseconds="19" invocations="235" avgMicrosecondsPerInvocation="81" maxMicrosecondsPerInvocation="2602" standardDeviationMircosecondsPerInvocation="239"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="18" invocations="235" avgMicrosecondsPerInvocation="80" maxMicrosecondsPerInvocation="2167" standardDeviationMircosecondsPerInvocation="227"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="17" invocations="94" avgMicrosecondsPerInvocation="186" maxMicrosecondsPerInvocation="2087" standardDeviationMircosecondsPerInvocation="377"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.CrlfLogInjectionDetector" totalMilliseconds="17" invocations="36" avgMicrosecondsPerInvocation="477" maxMicrosecondsPerInvocation="5932" standardDeviationMircosecondsPerInvocation="1119"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison" totalMilliseconds="16" invocations="36" avgMicrosecondsPerInvocation="456" maxMicrosecondsPerInvocation="5237" standardDeviationMircosecondsPerInvocation="904"/>
+      <ClassProfile name="com.mebigfatguy.fbcontrib.detect.PossiblyRedundantMethodCalls" totalMilliseconds="16" invocations="36" avgMicrosecondsPerInvocation="449" maxMicrosecondsPerInvocation="4181" standardDeviationMircosecondsPerInvocation="793"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.LoadOfKnownNullValue" totalMilliseconds="15" invocations="36" avgMicrosecondsPerInvocation="444" maxMicrosecondsPerInvocation="1278" standardDeviationMircosecondsPerInvocation="267"/>
+      <ClassProfile name="com.mebigfatguy.fbcontrib.detect.SuboptimalExpressionOrder" totalMilliseconds="15" invocations="36" avgMicrosecondsPerInvocation="440" maxMicrosecondsPerInvocation="9486" standardDeviationMircosecondsPerInvocation="1537"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.SynchronizationOnSharedBuiltinConstant" totalMilliseconds="15" invocations="36" avgMicrosecondsPerInvocation="436" maxMicrosecondsPerInvocation="10841" standardDeviationMircosecondsPerInvocation="1760"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindBadCast2" totalMilliseconds="15" invocations="36" avgMicrosecondsPerInvocation="426" maxMicrosecondsPerInvocation="11679" standardDeviationMircosecondsPerInvocation="1906"/>
+      <ClassProfile name="com.mebigfatguy.fbcontrib.detect.UseSplit" totalMilliseconds="14" invocations="36" avgMicrosecondsPerInvocation="412" maxMicrosecondsPerInvocation="7664" standardDeviationMircosecondsPerInvocation="1241"/>
+      <ClassProfile name="com.mebigfatguy.fbcontrib.detect.LocalSynchronizedCollection" totalMilliseconds="14" invocations="36" avgMicrosecondsPerInvocation="391" maxMicrosecondsPerInvocation="3121" standardDeviationMircosecondsPerInvocation="581"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.file.PathTraversalDetector" totalMilliseconds="13" invocations="36" avgMicrosecondsPerInvocation="385" maxMicrosecondsPerInvocation="1214" standardDeviationMircosecondsPerInvocation="260"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.crypto.CipherWithNoIntegrityDetector" totalMilliseconds="13" invocations="36" avgMicrosecondsPerInvocation="366" maxMicrosecondsPerInvocation="8578" standardDeviationMircosecondsPerInvocation="1390"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantPoolGenFactory" totalMilliseconds="12" invocations="36" avgMicrosecondsPerInvocation="358" maxMicrosecondsPerInvocation="9748" standardDeviationMircosecondsPerInvocation="1587"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.injection.custom.CustomInjectionDetector" totalMilliseconds="12" invocations="36" avgMicrosecondsPerInvocation="353" maxMicrosecondsPerInvocation="3466" standardDeviationMircosecondsPerInvocation="583"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.MethodReturnCheck" totalMilliseconds="12" invocations="36" avgMicrosecondsPerInvocation="351" maxMicrosecondsPerInvocation="5932" standardDeviationMircosecondsPerInvocation="952"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.ReDosDetector" totalMilliseconds="12" invocations="36" avgMicrosecondsPerInvocation="337" maxMicrosecondsPerInvocation="7525" standardDeviationMircosecondsPerInvocation="1217"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="12" invocations="36" avgMicrosecondsPerInvocation="337" maxMicrosecondsPerInvocation="913" standardDeviationMircosecondsPerInvocation="178"/>
+      <ClassProfile name="com.mebigfatguy.fbcontrib.detect.LingeringGraphicsObjects" totalMilliseconds="12" invocations="36" avgMicrosecondsPerInvocation="336" maxMicrosecondsPerInvocation="7301" standardDeviationMircosecondsPerInvocation="1179"/>
+      <ClassProfile name="com.mebigfatguy.fbcontrib.detect.UnnecessaryNewNullCheck" totalMilliseconds="11" invocations="36" avgMicrosecondsPerInvocation="331" maxMicrosecondsPerInvocation="6972" standardDeviationMircosecondsPerInvocation="1132"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.password.JndiCredentialsDetector" totalMilliseconds="11" invocations="36" avgMicrosecondsPerInvocation="327" maxMicrosecondsPerInvocation="7314" standardDeviationMircosecondsPerInvocation="1182"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
